@@ -1,0 +1,5 @@
+d:\用户目录\我的文档\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Client.exe.config
+d:\用户目录\我的文档\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Client.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Client.pdb
+d:\用户目录\我的文档\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Client.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Client.pdb
